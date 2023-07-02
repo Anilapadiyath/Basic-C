@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688306143 source:c:\users\anila\onedrive\documents\basic c\locker project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
