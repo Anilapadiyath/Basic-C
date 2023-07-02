@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688310515 source:c:\users\anila\onedrive\documents\basic c\func_sum,sub,div,mul_print\main.c
+	<stdio.h>
+	<stdlib.h>
+
