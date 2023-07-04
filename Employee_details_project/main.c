@@ -4,7 +4,7 @@ struct shop        //EMPLOYEE DETAILS PROJECT
 {
     char shop_name[30];
     int date;
-    union shop_floor
+    struct shop_floor
     {
         char floor_name[20];
         struct employee
